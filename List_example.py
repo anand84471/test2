@@ -23,3 +23,5 @@ else:
 
 #Hello
 print("Anand")
+
+Dolphin = {123456}
