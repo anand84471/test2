@@ -22,3 +22,5 @@ else:
 
 
 #Hello
+
+Dolphin = {123456}
