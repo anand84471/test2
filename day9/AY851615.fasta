@@ -1,0 +1,55 @@
+LOCUS       AY851615                 873 bp    mRNA    linear   INV 01-NOV-2005
+DEFINITION  Schistosoma haematobium 22.6kDa tegument-associated antigen mRNA,
+            complete cds.
+ACCESSION   AY851615
+VERSION     AY851615.1
+KEYWORDS    .
+SOURCE      Schistosoma haematobium
+  ORGANISM  Schistosoma haematobium
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Trematoda; Digenea; Strigeidida; Schistosomatoidea;
+            Schistosomatidae; Schistosoma.
+REFERENCE   1  (bases 1 to 873)
+  AUTHORS   Fitzsimmons,C.M., Stewart,T.J., Hoffmann,K.F., Grogan,J.L.,
+            Yazdanbakhsh,M. and Dunne,D.W.
+  TITLE     Human IgE response to the Schistosoma haematobium 22.6 kDa antigen
+  JOURNAL   Parasite Immunol. 26 (8-9), 371-376 (2004)
+   PUBMED   15679635
+REFERENCE   2  (bases 1 to 873)
+  AUTHORS   Stewart,T.J., Fitzsimmons,C.M. and Dunne,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2004) Pathology, Cambridge University, Tennis
+            Court Road, Cambridge CB21QP, UK
+FEATURES             Location/Qualifiers
+     source          1..873
+                     /organism="Schistosoma haematobium"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:6185"
+     CDS             75..647
+                     /note="Sh22.6"
+                     /codon_start=1
+                     /product="22.6kDa tegument-associated antigen"
+                     /protein_id="AAW49250.1"
+                     /translation="MSTETRLSSMEEFIRAFLEMDADNNEMIDKQELIKYCQKNRLDM
+                     RLIDPWIARFDTDKDNKISIEEFCRGFGLKVSEIRREKEELKKEKDGKVSKLPPNVEI
+                     IAATMSKTKQYDICYQFKEYIDNSSRTNKDIKEVANKMKTLLDNTYGRVWQVVILTGS
+                     YWMNFSHEPFLSIQFKYNNYVCLAWRTPSQ"
+ORIGIN      
+        1 tttcgtcgtc gaggtcgttc aagaaaaaga gtagttgtca tttgtttttc caaatatcat
+       61 tataaaaatt aattatgtca accgaaacga gattgagttc aatggaagag tttatcagag
+      121 catttttaga aatggatgca gataacaatg aaatgattga taaacaagaa ttaattaaat
+      181 actgtcaaaa aaatcgtttg gatatgagat tgatcgatcc atggatagcg aggtttgata
+      241 ctgataaaga taataaaatc agtatagaag agttctgccg tggattcggt ttaaaagtat
+      301 cagaaattcg acgtgaaaaa gaagaattaa aaaaagaaaa agatggcaag gtttctaaac
+      361 ttccaccaaa tgttgaaatt attgcagcaa ctatgtcaaa aacaaaacaa tatgatatat
+      421 gttatcaatt taaagaatat attgataata gtagtcgaac aaataaggat ataaaagagg
+      481 tggcaaataa aatgaaaaca ttattggata atacttatgg tcgtgtatgg caagtggtta
+      541 tattaactgg ttcatattgg atgaattttt cccatgaacc atttttatca atacaattca
+      601 agtataataa ttatgtctgt ttagcatgga gaacaccatc tcagtaataa ctatattaat
+      661 aaaaatacaa ctgactatgg attcataaaa caatatcata acagtatgta gatgaacatt
+      721 ttaaaacttt aagaaaaatg agggattttc aaataatttc gaatttgtta aacattccat
+      781 agccattaat tcattttcgc taatttaaac atacactact ctgtaataac aaaaaacgtt
+      841 catcagtaaa tgggttcaat tatttaaaaa aaa
+//
+
+
